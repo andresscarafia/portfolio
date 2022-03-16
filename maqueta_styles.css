@@ -1,0 +1,9 @@
+body {
+	background-color: #add8e6;
+}
+
+.fotodeperfil {
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+}
